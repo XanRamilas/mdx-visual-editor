@@ -99,7 +99,7 @@ code --install-extension mdx-visual-editor-1.0.0.vsix
 
 ## 🖼️ Image
 
-![Sample image](halo-ce-cover.jpg)
+![](halo-ce-cover.jpg)
 
 ## 📌 Divider
 

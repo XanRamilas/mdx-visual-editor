@@ -27,9 +27,9 @@ MDX Visual Editor brings a WYSIWYG editing experience to VS Code, allowing you t
 
 ### 🖼️ Screenshots
 
-![](/src/assets/screenshot-1.png)
+![](/assets/screenshot-1.png)
 
-![](/src/assets/screenshot-2.png)
+![](/assets/screenshot-2.png)
 
 ### 📦 Installation
 

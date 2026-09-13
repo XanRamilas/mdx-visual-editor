@@ -31,8 +31,8 @@ class MdxEditorProvider implements vscode.CustomTextEditorProvider {
 		webviewPanel.webview.options = { enableScripts: true };
 		webviewPanel.webview.html = this.getHtmlForWebview(webviewPanel.webview);
 		webviewPanel.iconPath = {
-			light: vscode.Uri.joinPath(this.context.extensionUri, 'src', 'assets', 'icon-light.png'),
-			dark: vscode.Uri.joinPath(this.context.extensionUri, 'src', 'assets', 'icon-dark.png')
+			light: vscode.Uri.joinPath(this.context.extensionUri,'assets', 'icon-light.png'),
+			dark: vscode.Uri.joinPath(this.context.extensionUri, 'assets', 'icon-dark.png')
 		};
 		webviewPanel.title = `Edit: ${fileName}`;
 
