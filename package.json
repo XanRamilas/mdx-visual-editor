@@ -4,7 +4,7 @@
   "description": "Editor for *.md and *.mdx files in visual style",
   "publisher": "firs-industries",
   "icon": "assets/icon.png",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.120.0"
   },

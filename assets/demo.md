@@ -94,16 +94,12 @@ print(fibonacci(10))
 npm install
 npm run build
 vsce package
-code --install-extension mdx-visual-editor-1.0.0.vsix
+code --install-extension mdx-visual-editor-1.1.0.vsix
 ```
 
 ## 🖼️ Image
 
 ![](halo-ce-cover.jpg)
-
-## 📌 Divider
-
----
 
 ## 🔗 Links
 
@@ -126,5 +122,3 @@ This file covers all the main Markdown elements:
 - Links
 - Dividers
 - MDX components
-
-**Perfect for screenshots!** 🎉
